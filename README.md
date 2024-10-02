@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+Hi! My name is Maeve Lee, and I'm a sophomore majoring in Statistics and Analytics. My current academic interests are data engineering, data science, and machine learning.
+
+## Skills
+
+### Classes
+COMP 110, STOR 305, STOR 455, MATH 381 and COMP 290! 
+
+### Tools and Programming Languages
+Python, R, git, and Docker 
